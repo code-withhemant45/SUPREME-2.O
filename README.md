@@ -25,16 +25,13 @@ Welcome to **SUPREME 2.0**, a full-fledged Data Structures and Algorithms (DSA) 
 - And much more!
 
 ## 🚀 How to Use
-1. Browse the `FUNCTIONS/` directory for topic-wise code samples.
+1. Browse the folders directories for topic-wise code samples.
 2. Read the explanations and comments in each file.
 3. Practice the problems and try to implement them yourself.
 4. Contribute by adding new problems, solutions, or improvements!
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests for new topics, code improvements, or documentation updates.
 
-## 📢 License
-This project is open-source and available under the [MIT License](LICENSE).
+
 
 ---
 Happy Learning and Coding! 🚀 
