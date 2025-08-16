@@ -20,7 +20,7 @@ int main(){
 
     bool ans = Linearsearch( arr, size ,target );
     
-          if (ans == 1 ){
+          if (ans == true ){
             cout<<" Target found"<< endl;
           }
           else{
