@@ -8,16 +8,13 @@ int Printuniqueelement( int arr[],  int size){
     for ( int i = 0 ; i < size ; i++){
 
         ans = ans ^ arr[i] ;
-
-        
+       
     }
 
     return ans;
-
 }
 
 int main(){
-
 
     int arr[9] = { 2,5,6,7,2,5,6,8,8};
 
